@@ -1,8 +1,26 @@
-## # Vítor Penteado
+## # 👨🏾‍💻 Vítor Penteado
 
 **`Beginner Developer`**
 
-Me chamo Vítor Hugo Penteado, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio na Etec de Hortolândia, com o curso técnico em Administração. Atualmente, estou cursando Engenharia de Software na Anhanguera. Sou fascinado por técnologia e atualmente trabalho com Telecom. Meu Instagram "[Vitor.pdar](https://www.instagram.com/vitor.pdar?vrfl=MTFyaGxidmJkb2p3Yw==)".
+Me chamo Vítor Hugo Penteado, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio na Etec de Hortolândia, com o curso técnico em Administração. Atualmente, estou cursando Engenharia de Software na Anhanguera. Sou fascinado por técnologia e atualmente sou Supervisor em uma empresa de Telecom "[Desktop](https://www.instagram.com/desktop?obrf=MWNxcDJianQ4OGs2bQ==)". Meu Instagram "[Vitor.pdar](https://www.instagram.com/vitor.pdar?vrfl=MTFyaGxidmJkb2p3Yw==)".
+
+<p align="left">
+    </a>
+    <a href="https://github.com/VitorPenteado?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/VitorPenteado?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/VitorPenteado?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/VitorPenteado?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
@@ -68,14 +86,14 @@ Me chamo Vítor Hugo Penteado, tenho 20 anos e sou natural de São Paulo. Conclu
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=VitorPenteado&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorPenteado&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
