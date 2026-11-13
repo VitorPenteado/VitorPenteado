@@ -1,4 +1,4 @@
-## # 👩🏻‍💻 Larissa Kich
+## # Vítor Penteado
 
 **`Beginner Developer`**
 
